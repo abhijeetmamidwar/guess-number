@@ -1,5 +1,3 @@
-'use strict';
-
 var body = document.querySelector('body');
 var Score = document.querySelector('.score');
 var Guess = document.querySelector('.guess');
